@@ -1,0 +1,7 @@
+GIT CHEATSHEET
+1. Install git
+2. Create github account.
+3. CONFIGURE GIT
+
+4. Create a folder
+5. Proceed to github aand create a repository
